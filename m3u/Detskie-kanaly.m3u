@@ -1,0 +1,207 @@
+#EXTM3U
+#EXTINF:0,ANI
+http://hlstv.kuz.211.ru/239.211.211.98/stream.m3u8
+#EXTINF:0,Baby TV
+http://er-cdn.ertelecom.ru/os/video/hls/071a919b38e2d7b92e8b0faada97b30d07b876f581a5625a0a9779abd33b1bf041120c05229efd0472f1eb29fa8b218301d263e8319b26b8eea682b09e600bf5aa53a8b6d022b1aceada0515f90b28173f07e4b369d6e234217ee315a23497369adc88896b7b2c5ee3c375de8509cb281a6f1e380af46471eced7f540b4531cb7bf5e288634cf65eaa6e216bbc82a8fc8f93e432c9c283feaf9b7a09e37f6096114c6f26d283ec6bad9357ccd4f8b50cc6d1d49f3657a73a96ea923ff986cad68585d4bdfdc7c12c1bcb15d9b32a66cfbf5499d344d3a311d1f33d18f0b0b231/playlist.m3u8
+#EXTINF:0,Boomerang
+http://er-cdn.ertelecom.ru/os/video/hls/94bff6d0bd942c173cff35e09b6721d57c14091bad943be2c09b55a36099b5de47ff6e117cf28a9278073fb642f36070b3a336bd0930de8693112dea5cc46fb50ac92b49f908e1fb055e3f96c961fde4273ad912f89e80e5e9b5e802aef6eac07768eae01180fab362e312550398db48f4d3a1a6a4874dda17c95f166e6f3972fcd226e1cd61d1c902055395382a0734710cb8794c5814e8442309e590d3120ee022ddac8118661e21e523cfda5f488a3cee7093f720a7666ebdd30199e2e9bebded261a523fc419d4439f0862576c0b1e143b1aa31f695baca1d2bb19c9d45b/playlist.m3u8
+#EXTINF:0,Cartoon Network
+http://super.iptvbot.biz/iptv/23UVE8AS6NRX9G/143/inde..
+#EXTINF:0,Cartoon Network
+http://54.255.155.24:1935/Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8
+#EXTINF:0,Cartoon Network
+http://super.iptvbot.biz/iptv/5V4S36BNB322LL/143/index.m3u8
+#EXTINF:0,Cartoon Network
+http://151.249.207.217:4022/udp/224.200.100.1:1234
+#EXTINF:0,Cartoon Network
+http://37.192.130.42:81/udp/239.1.3.3:1234
+#EXTINF:0,Cartoon Network
+http://37.192.131.119:81/udp/239.1.3.3:1234
+#EXTINF:0,Cartoon Network
+http://37.192.131.195:81/udp/239.1.3.3:1234
+#EXTINF:0,Cartoon Network
+http://msk3.peers.tv/streaming/cartoonnetwork/16/tvrec/playlist.m3u8
+#EXTINF:0,Cartoon Network
+http://188.226.22.227:81//udp/239.255.2.9:1234
+#EXTINF:0,Cartoon Network
+http://origin1.voronezh.ertelecom.ru/content/private/s3660414/d3660423/r965033sd2500000/c8895d707d66955826b3b7fb48cab2986e125c5c/track_3_2000/playlist.m3u8
+#EXTINF:0,Cartoon Network
+http://85.112.117.239/streaming/cartoonnetwork/16/tvrec/playlist.m3u8
+#EXTINF:0,Cartoon Network
+http://194.8.147.146:4022/udp/239.0.0.46:4000
+#EXTINF:0,Cartoon Network
+http://109.226.64.96:4022/udp/232.0.1.49:1234
+#EXTINF:0,Cartoon Network
+http://188.68.118.240:30000/udp/239.255.10.37:5500
+#EXTINF:0,Cartoon Network
+http://109.226.64.96:4022/udp/232.0.1.49:1234
+#EXTINF:0,Cartoon Network
+http://188.68.118.240:30000/udp/239.255.10.37:5500
+#EXTINF:0,Cartoon Network
+http://37.192.140.5:81/udp/239.1.3.3:1234
+#EXTINF:0,Dance TV
+http://109.226.64.96:4022/udp/232.0.1.18:1234
+#EXTINF:0,Dance TV
+http://109.226.64.96:4022/udp/232.0.1.18:1234
+#EXTINF:0,DISNEY
+http://176.112.96.17:8000/play/a00w
+#EXTINF:0,DISNEY
+http://origin2.voronezh.ertelecom.ru/content/private/s3660414/d3660423/r965031sd2500000/a553be98123abe4745954f7a05774387e648475f/track_3_2000/playlist.m3u8
+#EXTINF:0,DISNEY
+http://151.249.207.217:4022/udp/224.200.246.17:3527
+#EXTINF:0,DISNEY
+http://37.192.86.19:81/udp/239.1.15.12:1234
+#EXTINF:0,DISNEY
+http://super.iptvbot.biz/iptv/23UVE8AS6NRX9G/524/inde..
+#EXTINF:0,DISNEY
+http://188.68.118.240:30000/udp/233.34.28.26:1001
+#EXTINF:0,DISNEY
+http://188.68.118.240:30000/udp/233.34.28.26:1001
+#EXTINF:0,DISNEY
+http://37.192.131.195:81/udp/239.1.15.12:1234
+#EXTINF:0,DISNEY
+http://37.192.131.119:81/udp/239.1.15.12:1234
+#EXTINF:0,DISNEY
+http://37.192.130.42:81/udp/239.1.15.12:1234
+#EXTINF:0,DISNEY
+http://194.8.147.146:4022/udp/239.0.0.31:4000
+#EXTINF:0,DISNEY
+http://37.192.168.114:81/udp/239.1.15.12:1234
+#EXTINF:0,DISNEY
+http://37.192.151.46:81/udp/239.1.15.12:1234
+#EXTINF:0,DISNEY
+http://37.192.141.31:81/udp/239.1.15.12:1234
+#EXTINF:0,DISNEY
+http://37.192.140.5:81/udp/239.1.15.12:1234
+#EXTINF:0,DISNEY
+http://37.192.140.37:81/udp/239.1.15.12:1234
+#EXTINF:0,DISNEY
+http://37.192.132.113:81/udp/239.1.15.12:1234
+#EXTINF:0,Disney Channel
+http://95.27.185.85:4022/udp/233.33.210.7:5050
+#EXTINF:0,Disney Channel
+http://109.226.64.96:4022/udp/232.0.2.23:1234
+#EXTINF:0,Disney Channel
+http://109.226.64.96:4022/udp/232.0.2.23:1234
+#EXTINF:0,Fox Kids
+http://46.182.25.34:1935/tv/1749/playlist.m3u8
+#EXTINF:0,Gulli
+http://194.8.147.146:4022/udp/239.0.0.27:4000
+#EXTINF:0,Gulli
+http://188.243.142.60:81/udp/239.239.12.3:5239
+#EXTINF:0,Gulli
+http://super.iptvbot.biz/iptv/23UVE8AS6NRX9G/109/inde..
+#EXTINF:0,Gulli
+http://78.26.128.99/index.php?channel=285&amp;key_ott=b6f2c565d2a42c8c389e666ee975d580
+#EXTINF:0,Jim Jam
+http://37.192.168.114:81/udp/239.1.3.2:1234
+#EXTINF:0,Jim Jam
+http://37.192.141.31:81/udp/239.1.3.2:1234
+#EXTINF:0,Jim Jam
+http://37.192.131.119:81/udp/239.1.3.2:1234
+#EXTINF:0,Jim Jam
+http://37.192.140.5:81/udp/239.1.3.2:1234
+#EXTINF:0,Jim Jam
+http://37.192.110.27:81/udp/239.1.3.2:1234
+#EXTINF:0,Jim Jam
+http://super.iptvbot.biz/iptv/23UVE8AS6NRX9G/138/inde..
+#EXTINF:0,Jim Jam
+http://37.192.132.113:81/udp/239.1.3.2:1234
+#EXTINF:0,Jim Jam
+http://109.226.64.96:4022/udp/232.0.1.65:1234
+#EXTINF:0,Jim Jam
+http://37.192.130.42:81/udp/239.1.3.2:1234
+#EXTINF:0,Jim Jam
+http://37.192.131.195:81/udp/239.1.3.2:1234
+#EXTINF:0,Jim Jam
+http://origin2.voronezh.ertelecom.ru/content/private/r183785sd2500000/0871c674192999eb140247759eb63a3b8d1399af/track_3_2000/playlist.m3u8
+#EXTINF:0,JimJam
+http://37.192.141.31:81/udp/239.1.3.2:1234
+#EXTINF:0,JimJam
+http://37.192.168.114:81/udp/239.1.3.2:1234
+#EXTINF:0,JimJam
+http://37.192.140.5:81/udp/239.1.3.2:1234
+#EXTINF:0,Nickelodeon
+http://37.192.140.5:81/udp/239.1.3.4:1234
+#EXTINF:0,Nickelodeon
+http://109.226.64.96:4022/udp/232.0.1.39:1234
+#EXTINF:0,Nickelodeon
+http://85.234.110.139:81/udp/238.2.1.36:1234
+#EXTINF:0,Nickelodeon
+http://85.234.110.139:81/udp/238.2.1.36:1234
+#EXTINF:0,PLUS
+http://109.200.231.82:9999/udp/224.5.1.238:1234
+#EXTINF:0,PLUS
+http://109.200.231.82:33333/udp/224.5.1.238:1234
+#EXTINF:0,TiJi
+http://37.192.140.5:81/udp/239.1.3.6:1234
+#EXTINF:0,TiJi
+http://37.192.141.31:81/udp/239.1.3.6:1234
+#EXTINF:0,TiJi
+http://37.192.168.114:81/udp/239.1.3.6:1234
+#EXTINF:0,TiJi
+http://37.192.140.37:81/udp/239.1.3.6:1234
+#EXTINF:0,Детский
+http://37.192.141.31:81/udp/239.1.3.5:1234
+#EXTINF:0,Детский
+http://37.192.168.114:81/udp/239.1.3.5:1234
+#EXTINF:0,Детский
+http://85.234.110.139:81/udp/238.2.1.32:1234
+#EXTINF:0,Детский
+http://37.192.140.5:81/udp/239.1.3.5:1234
+#EXTINF:0,Детский
+http://37.192.140.37:81/udp/239.1.3.5:1234
+#EXTINF:0,Детский
+http://85.234.110.139:81/udp/238.2.1.32:1234
+#EXTINF:0,Детский мир
+http://37.192.140.5:81/udp/239.1.3.7:1234
+#EXTINF:0,Детский мир
+http://37.192.140.37:81/udp/239.1.3.7:1234
+#EXTINF:0,Дисней
+http://85.234.110.139:81/udp/238.2.1.8:1234
+#EXTINF:0,КАРУСЕЛЬ
+http://37.192.140.37:81/udp/239.1.3.1:1234
+#EXTINF:0,КАРУСЕЛЬ
+http://37.192.140.5:81/udp/239.1.3.1:1234
+#EXTINF:0,КАРУСЕЛЬ
+http://37.192.141.31:81/udp/239.1.3.1:1234
+#EXTINF:0,КАРУСЕЛЬ
+http://37.192.168.114:81/udp/239.1.3.1:1234
+#EXTINF:0,КАРУСЕЛЬ
+http://109.226.64.96:4022/udp/232.0.1.20:1234
+#EXTINF:0,КАРУСЕЛЬ
+http://188.68.118.240:30000/udp/233.34.28.13:1001
+#EXTINF:0,КАРУСЕЛЬ
+http://188.68.118.240:30000/udp/239.255.10.25:5500
+#EXTINF:0,КАРУСЕЛЬ
+http://109.226.64.96:4022/udp/232.0.1.20:1234
+#EXTINF:0,КАРУСЕЛЬ
+http://188.68.118.240:30000/udp/233.34.28.13:1001
+#EXTINF:0,КАРУСЕЛЬ
+http://188.68.118.240:30000/udp/239.255.10.25:5500
+#EXTINF:0,КАРУСЕЛЬ
+http://85.234.110.139:81/udp/238.2.1.33:1234
+#EXTINF:0,Мультимания
+http://85.234.110.139:81/udp/238.2.1.143:1234
+#EXTINF:0,Мультимания
+http://109.226.64.96:4022/udp/232.0.1.47:1234
+#EXTINF:0,Пиксель
+http://109.200.231.82:9999/udp/224.5.1.134:1234
+#EXTINF:0,Пиксель
+http://109.200.231.82:33333/udp/224.5.1.134:1234
+#EXTINF:0,Радость Моя
+http://109.226.64.96:4022/udp/232.0.1.38:1234
+#EXTINF:0,Радость Моя
+http://188.68.118.240:30000/udp/239.255.10.97:5500
+#EXTINF:0,Радость Моя
+http://85.234.110.139:81/udp/238.2.1.19:1234
+#EXTINF:0,Улыбка Ребенка
+http://109.226.64.96:4022/udp/232.0.1.59:1234
+#EXTINF:0,Улыбка Ребенка
+http://188.68.118.240:30000/udp/239.255.10.122:5500
+#EXTINF:0,Улыбка Ребенка
+http://85.234.110.139:81/udp/238.2.1.15:1234
+#EXTINF:0,Улыбка Ребенка
+http://109.226.64.96:4022/udp/232.0.1.59:1234
+#EXTINF:0,Улыбка Ребенка
+http://188.68.118.240:30000/udp/239.255.10.122:5500
